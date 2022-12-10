@@ -1,4 +1,4 @@
-# AdventureGameOOP
+# Adventure Game
 ## 1
 ![alt text](https://i.hizliresim.com/og1wct5.PNG)
 ## 2
